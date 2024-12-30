@@ -76,7 +76,11 @@
     <!--eclipseide-->
     <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
   </div>
-<br>
+<br><br>
+<h3 align="center">💗 𝑭𝒂𝒗𝒐𝒓𝒊𝒕𝒆𝒔</h3>
+<p align="center">𝑆𝑤𝑖𝑚𝑚𝑖𝑛𝑔, 𝑅𝑒𝑎𝑑𝑖𝑛𝑔, 𝑅𝑒𝑐𝑜𝑟𝑑, 𝑇𝑟𝑎𝑣𝑒𝑙 <br>𝐶𝑜𝑓𝑓𝑒𝑒, 𝐷𝑒𝑠𝑠𝑒𝑟𝑡</p>
+<p align="center">＼＿＿＿＿＿＿＿＿＿＿／<br>　　ｏ<br>　　 。<br>　　　｡<br>　　∧＿∧<br>　 (*　･ω･)<br>＿(__つ/￣￣/__<br>
+</p>
 <br>
 <h3 align="center">📞 𝑪𝒐𝒏𝒕𝒂𝒄𝒕</h3>
 <div align="center">
